@@ -1,0 +1,12 @@
+*.log
+*.txt
+2026-*
+trading_log.txt
+venv/
+__pycache__/
+lib64/
+pyvenv.cfg
+activate*
+pip*
+python*
+*.pyc
